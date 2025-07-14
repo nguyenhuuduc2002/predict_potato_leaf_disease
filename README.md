@@ -1,6 +1,7 @@
 1. Prediction of potato leaf disease based on leaf photographs
 2. using convolutional neural networks model
 3. predictive interface design using reactjs
+4. The program will predict 3 labels: Early_blight, Late_blight, Healthy
 ## Demo chương trình
 demo 1
 ![Demo 1](potato-disease/img_demo/demo1.png)
