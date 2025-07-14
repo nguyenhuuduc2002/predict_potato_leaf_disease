@@ -3,10 +3,10 @@
 3. predictive interface design using reactjs
 ## Demo chương trình
 demo 1
-![Demo 1](img_demo/demo1.png)
+![Demo 1](potato-disease/img_demo/demo1.png)
 
 demo 2
-![Demo 2](img_demo/demo2.png)
+![Demo 2](potato-disease/img_demo/demo2.png)
 
 demo 3
-![Demo 3](img_demo/demo3.png)
+![Demo 3](potato-disease/img_demo/demo3.png)
