@@ -10,3 +10,9 @@ demo 2
 
 demo 3
 ![Demo 3](potato-disease/img_demo/demo3.png)
+
+demo 4
+![Demo 4](potato-disease/img_demo/demo4.png)
+
+demo 5
+![Demo 5](potato-disease/img_demo/demo5.png)
